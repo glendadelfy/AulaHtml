@@ -1,0 +1,25 @@
+a<!Doctype html>
+<html lang="pt-br"></html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author"  content=" Glenda">
+    <title>Minha página</title>
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+  <script scr="./arquivo-javascrpt.js"></script>
+ 
+</head>
+
+<body>
+    <h1>Meu portfolio</h1>
+    <h2>Sobre mim</h2>
+    <h3>Conhecimentos</h3>
+    <h4>Area de administração</h4>
+    <h5>Area de desemvolvimento</h5>
+    <h6>Trabalhos finais</h6>
+
+    <p>Temas a seguir</p>
+    <a href=" https://github.com/glendadelfy/AulaHtml.git">cesso git hub </a>
+    <img src="https://th.bing.com/th/id/R.4e7f581e9bb447b39dc2b2631f0d4261?rik=QNsCL0gsgyLR3w&riu=http%3a%2f%2fpiq.codeus.net%2fstatic%2fmedia%2fuserpics%2fpiq_66223.png&ehk=AMKfJ%2fAOAgKR4e%2bPVP9CPiy6hZzZsVEsuGkOpS2UFns%3d&risl=&pid=ImgRaw&r=0">
+    <span>Um pouco sobre mim</span>
+</body>
